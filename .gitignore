@@ -1,0 +1,22 @@
+﻿# Build artifacts
+*.exe
+*.obj
+*.o
+*.out
+*.log
+
+# Visual Studio / IDE
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.ipch
+
+# CMake / build directories
+build/
+Debug/
+Release/
+
+# OS files
+Thumbs.db
+.DS_Store
