@@ -29,7 +29,7 @@ int main() {
     string t = "nagaram";
 
     Solution S;
-    cout<<boolalpha<<S.isAnagram(s,t);
+    cout<<boolalpha<<S.isAnagram(s,t)<<"\n";
     
     return 0;
 }

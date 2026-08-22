@@ -26,7 +26,7 @@ int main() {
     vector<string> str = {"flower","flow","flight"};
 
     Solution S;
-    cout<<S.longestCommonPrefix(str);
+    cout<<S.longestCommonPrefix(str)<<"\n";
     
     return 0;
 }
